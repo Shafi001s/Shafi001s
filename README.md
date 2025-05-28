@@ -1,12 +1,51 @@
-- 👋 Hi, I’m @Shafi001s
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Cybernetics
-- 💞️ I’m looking to collaborate on Automation and Prostesis projects
-- 📫 How to reach me shafiahmed001s@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have muscles.
+# 👋 Hi, I'm Syed Shafi Ahmed
 
-<!---
-Shafi001s/Shafi001s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Graduate in BEng Cybernetics** from the University of Greenwich (2025)  
+🔧 **Aspiring Robotics & Embedded Systems Engineer**  
+🌍 Based in London | 🇧🇩 Originally from Bangladesh
+
+---
+
+## 🔭 What I’m Working On
+
+- 🤖 A 6-DOF Robotic Arm for educational and practical applications
+- 🚁 An Arduino-based quadcopter with custom PCB and RC integration
+- ⏱ A chess game clock built on DE1-SoC using VHDL
+- 📦 Microcontroller & Embedded Systems roadmap (Arduino, ESP32, STM32, ROS)
+
+---
+
+## 💡 Interests
+
+- Robotics & Mechatronics  
+- FPGA Development & VHDL  
+- Real-time Embedded Systems  
+- PCB Design & RC Systems  
+- Control Systems & Sensor Fusion
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** C/C++, VHDL, Python, MATLAB  
+- **Microcontrollers:** Arduino, ESP32, STM32, Raspberry Pi  
+- **Tools:** Quartus Prime, ModelSim, KiCAD, VS Code, Arduino IDE  
+- **Others:** ROS, Git, SolidWorks (for 3D modeling)
+
+---
+
+## 📈 GitHub Stats
+
+![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshafi2001&show_icons=true&theme=tokyonight&hide_rank=true)
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: [shafiahmed001s@gmail.com](mailto:shafiahmed001s@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/syedshafiahmed](https://linkedin.com/in/syedshafiahmed)  
+- 📁 Portfolio: *Comming Soon*
+
+---
+
+Thanks for visiting my GitHub! I’m always learning and love building cool tech ✨
