@@ -36,7 +36,7 @@
 
 ## 📈 GitHub Stats
 
-![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshafi2001&show_icons=true&theme=tokyonight&hide_rank=true)
+![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafi001s&show_icons=true&theme=tokyonight&hide_rank=true)
 
 ---
 
