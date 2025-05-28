@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Automation and Prostesis projects
 - 📫 How to reach me shafiahmed001s@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have muscles and I go outside to touch grass.
+- ⚡ Fun fact: I have muscles.
 
 <!---
 Shafi001s/Shafi001s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
