@@ -43,7 +43,7 @@
 ## 📫 Get in Touch
 
 - 📧 Email: [shafiahmed001s@gmail.com](mailto:shafiahmed001s@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/syedshafiahmed](https://www.linkedin.com/in/shafi608/)  
+- 🌐 LinkedIn: [www.linkedin.com/in/shafi608](https://www.linkedin.com/in/shafi608/)  
 - 📁 Portfolio: *Comming Soon*
 
 ---
